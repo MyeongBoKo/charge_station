@@ -76,13 +76,13 @@
 ### 사용자 위치 정보를 바탕으로 주위 전기차 충전소 정보 제공 기능
 
 지도 위에 사용 가능 또는 사용 불가능 정보 제공 및 마커 클릭 시 요약 정보 제공
-| <img src="https://github.com/Hongg7/charge_station/assets/110872008/bdcf3042-401f-4ba9-8a34-a3f4647285e9" width="500" height="500"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/59500257-b646-49d8-8098-c65728ae877a" width="500" height="500"> |
+| <img src="https://github.com/Hongg7/charge_station/assets/110872008/bdcf3042-401f-4ba9-8a34-a3f4647285e9" width="700" height="700"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/59500257-b646-49d8-8098-c65728ae877a" width="700" height="700"> |
 |:--:|:--:|
 
 ### 충전소 검색 기능
 
 키워드 검색 및 필터링 검색 기능을 통해 충전소 정보 제공
-| <img src="https://github.com/Hongg7/charge_station/assets/110872008/66a98a2b-0434-4552-96c7-ead256577d90" width="500" height="500"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/5b008258-24e2-48be-af66-a727ab940a28" width="500" height="500"> |
+| <img src="https://github.com/Hongg7/charge_station/assets/110872008/66a98a2b-0434-4552-96c7-ead256577d90" width="700" height="700"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/5b008258-24e2-48be-af66-a727ab940a28" width="700" height="700"> |
 |:--:|:--:|
 
 ### 충전소 추천 기능
