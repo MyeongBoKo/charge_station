@@ -76,7 +76,7 @@
 ### 사용자 위치 정보를 바탕으로 주위 전기차 충전소 정보 제공 기능
 
 지도 위에 사용 가능 또는 사용 불가능 정보 제공 및 마커 클릭 시 요약 정보 제공
-| <img src="https://github.com/Hongg7/charge_station/assets/110872008/bdcf3042-401f-4ba9-8a34-a3f4647285e9" width="700" height="700"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/59500257-b646-49d8-8098-c65728ae877a" width="700" height="700"> |
+| <img src="https://github.com/Hongg7/charge_station/assets/110872008/bdcf3042-401f-4ba9-8a34-a3f4647285e9" width="600" height="700"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/59500257-b646-49d8-8098-c65728ae877a" width="600" height="700"> |
 |:--:|:--:|
 
 ### 충전소 검색 기능
