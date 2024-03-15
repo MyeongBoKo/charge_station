@@ -10,7 +10,7 @@
 
 ---
 
-### [🚙 Introduction](#Introduction)
+### [🚙 Introduction](#🚙-Introduction)
 
 - [🚀 프로젝트 소개](https://www.notion.so/7887ca4280914f0e95b19a6a8742e253?pvs=21)
 - [프로젝트 목표](https://www.notion.so/08414bddd46c4cdc826fe9b6984609cd?pvs=21)
@@ -25,7 +25,7 @@
 - [📚 ERD](https://www.notion.so/ERD-94f7bab575a04c87b51ab983efde6323?pvs=21)
 - [서비스 아키텍쳐](https://www.notion.so/acf7232e883644d1b36f65e0db3e1d75?pvs=21)
 
-## Introduction
+## 🚙 Introduction
 
 ---
 
