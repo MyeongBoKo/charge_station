@@ -16,35 +16,21 @@
 </p>
 </a>
 
-# 📖 목차
-
-### [🚙 Introduction](#Introduction)
-
-- [🚀 프로젝트 소개](#프로젝트-소개)
-- [프로젝트 목표](#프로젝트-목표)
-- [👨‍👩‍👧‍👦 팀원 ](#팀원)
-
-### [🖥️ 주요 기능 소개](#주요-기능-소개)
-
-### [🖊️ 타요타요 준비 과정](#타요타요-준비-과정)
-
-- [기술스택](#기술스택)
-- [📚 ERD](#ERD)
-- [서비스 아키텍쳐](#서비스-아키텍쳐)
-
 ## Introduction
 
-### 프로젝트 소개
+# 💡프로젝트 소개
 
 <aside>
-💡 서울시의 전기 차 충전소 위치를 오픈 api를 통해 사용자가 쉽게 알 수 있도록 하는 웹페이지
-
+타요타요는 전기차 충전소 정보 전달 플랫폼으로,
+  
+서울시의 전기 차 충전소 위치를 오픈 API를 통해 사용자에게 제공해주는 서비스입니다. 
 </aside>
+
 
 ### 프로젝트 목표
 
 ```
-본 프로젝트의 목표는 전기차를 이용하는 사람들이 쉽게 전기차 충전소 정보를 얻을 수 있도록 하는 것입니다.
+전기차를 이용하는 사람들이 쉽게 전기차 충전소 정보를 얻을 수 있도록 하는 것입니다.
 이를 위해, 커뮤니티, 지도 등 다양한 기능을 제공하는 전기차 충전소 위치 플랫폼을 구현할 것입니다.
 또한, 사용자들이 자유롭게 전기차를 공유하고 교류할 수 있는 공간을
 제공하여 전기차를 이용하고 좋아하는 사람들의 소통의 장을 만들 것 입니다.
@@ -53,52 +39,31 @@
 ### 프로젝트를 시작하게 된 배경
 
 ```
-전기차 사용자 수는 점점 증가하고 있지만, 전기차 충전소에 대한 정보 제공은 상대적으로 부족한 실정입니다.
-그래서 저희는 사용자들에게 전기차 충전소 위치 정보를 제공하기 위해 이 프로젝트를 시작하게 되었습니다.
+전기차 사용자 수는 지속적으로 늘어나고 있지만, 충전소에 관한 정보가 부족하다고 판단했습니다.
+이에 저희는 사용자들에게 서울시 내에 있는 충전소 정보를 제공하기 위해 이 프로젝트를 시작하였습니다.
 ```
 
-### 기대효과
+## <h1>주요 기능 소개</h1>
 
-```
- 전기차 사용자들은 정보를 더욱 쉽게 얻을 수 있으며, 전기차 충전소 운영자들은 자신의 시설을 더욱 널리 알릴 수 있는 기회를 얻을 수 있습니다. 
-```
+### 📍 실시간 API를 통한 충전소 상태 정보 표시 
 
-### 개발 기간 및 인원
-
-```
-23.12.21 ~ 24.01.31
-백엔드 7명
-```
-
-### 팀원
-
-| Backend | Backend | Backend | Backend | Backend | Backend | Backend |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| <img src="https://avatars.githubusercontent.com/u/110872008?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/141026603?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/102129027?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/106435638?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/57277646?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/145638699?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/145637253?v=4" width="130" height="130"> 
-| [고명보](https://github.com/MyeongBoKo) | [권홍](https://github.com/Hong-g7) | [고서연](https://github.com/goxeoni) | [박주형](https://github.com/parkhyeong) | [장현준](https://github.com/jhj010311) | [조나단](https://github.com/jonathan0620) | [조상권](https://github.com/JOSANGKWON) |
-
-## 주요 기능 소개
-<p align="center">
-  <img src="https://github.com/Hongg7/charge_station/assets/110872008/725ab82f-e231-4c28-9e01-b7b938e56e35">
-</p>
-
-### 사용자 위치 정보를 바탕으로 주위 전기차 충전소 정보 제공 기능
-
-지도 위에 사용 가능 또는 사용 불가능 정보 제공 및 마커 클릭 시 요약 정보 제공
-| <img src="https://github.com/Hongg7/charge_station/assets/110872008/bdcf3042-401f-4ba9-8a34-a3f4647285e9" width="1000" height="700"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/59500257-b646-49d8-8098-c65728ae877a" width="1000" height="700"> |
+지도 위에 사용 가능 또는 사용 불가능한 정보에 대한 마커를 제공하며, 마커를 클릭하면 요약 정보를 제공합니다.
+| <img src="https://github.com/Hongg7/charge_station/assets/141026603/1d20607d-460e-430a-9e24-6f76d92cc45f" width="500" height="300"> | <img src="https://github.com/Hongg7/charge_station/assets/141026603/29227f5e-9f74-4866-b467-32592948914f" width="500" height="300"> |
 |:--:|:--:|
 
-### 충전소 검색 기능
+
+### 🗺️ 사용자 위치 기반 충전소 추천 서비스 
+사용자 주변 1km이내에 있는 충전소 별 거리가 가까운 순으로 충전소 추천 서비스를 제공합니다.
+| <img src="https://github.com/Hongg7/charge_station/assets/141026603/7d70accd-05df-4346-8920-abcecc127d56" width="500" height="300"> | <img src="https://github.com/Hongg7/charge_station/assets/141026603/4e4c4e75-31b1-49f2-9e1d-7fe9fda14161" width="500" height="300"> |
+|:--:|:--:|
+
+### 🔎 충전소 검색 기능
 
 키워드 검색 및 필터링 검색 기능을 통해 충전소 정보 제공
-| <img src="https://github.com/Hongg7/charge_station/assets/110872008/66a98a2b-0434-4552-96c7-ead256577d90" width="700" height="700"> | <img src="https://github.com/Hongg7/charge_station/assets/110872008/5b008258-24e2-48be-af66-a727ab940a28" width="700" height="700"> |
-|:--:|:--:|
 
-### 충전소 추천 기능
-
-사용자 위치 정보 기준으로 1km 안에 있는 충전소 정보 제공
-
-<img src="https://github.com/Hongg7/charge_station/assets/110872008/b9c720f5-d818-4b37-a657-1924fd235ddd" width="700" height="500">
+<p align="center">
+  <img src="https://github.com/Hongg7/charge_station/assets/141026603/bcf6b51d-9475-4a5b-9e5b-9bbb16b00620" width="600" height="400">
+</p>
 
 ## 타요타요 준비 과정
 
