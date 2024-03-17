@@ -112,4 +112,4 @@
 
 ### 서비스 아키텍쳐
 
-<img src="https://github.com/Hongg7/charge_station/assets/110872008/290a398b-46c9-42a3-960a-ced8bf6d697d" width="700" height="500">
+<img src="https://github.com/Hongg7/charge_station/assets/110872008/648ae9fe-144c-4e0e-9d9c-e2435f000cb7" width="700" height="500">
