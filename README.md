@@ -73,9 +73,9 @@
 ### 팀원
 
 | Backend | Backend | Backend | Backend | Backend | Backend | Backend |
-| --- | --- | --- | --- | --- | --- | --- |
-| 사진 |  |  |  |  |  |  |
-| 깃허브링크 |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| <img src="https://avatars.githubusercontent.com/u/110872008?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/141026603?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/102129027?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/106435638?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/57277646?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/145638699?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/145637253?v=4" width="130" height="130"> 
+| [고명보](https://github.com/MyeongBoKo) | [권홍](https://github.com/Hong-g7) | [고서연](https://github.com/goxeoni) | [박주형](https://github.com/parkhyeong) | [장현준](https://github.com/jhj010311) | [조나단](https://github.com/jonathan0620) | [조상권](https://github.com/JOSANGKWON) |
 
 ## 주요 기능 소개
 <p align="center">
