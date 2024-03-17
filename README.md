@@ -4,7 +4,7 @@
   <img src ="https://github.com/Hongg7/charge_station/assets/141026603/4e4e245e-4aa6-44fb-9b42-202868f27db9" width ="300" height ="300" />
 </p>
 
-<a href="http://ec2-52-79-210-46.ap-northeast-2.compute.amazonaws.com:8080/charge_station/"
+<a href="http://ec2-52-79-210-46.ap-northeast-2.compute.amazonaws.com:8080/charge_station/">
   <p align="center">
     전기차 타요타요 바로가기
   </p>
