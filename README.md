@@ -59,7 +59,7 @@
 
 ### 🔎 충전소 검색 기능
 
-키워드 검색 및 필터링 검색 기능을 통해 충전소 정보 제공
+키워드 검색 및 필터링 검색 기능을 통해 충전소 정보 제공합니다.
 
 <p align="center">
   <img src="https://github.com/Hongg7/charge_station/assets/141026603/bcf6b51d-9475-4a5b-9e5b-9bbb16b00620" width="600" height="400">
