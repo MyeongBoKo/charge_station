@@ -42,6 +42,19 @@
 전기차 사용자 수는 지속적으로 늘어나고 있지만, 충전소에 관한 정보가 부족하다고 판단했습니다.
 이에 저희는 사용자들에게 서울시 내에 있는 충전소 정보를 제공하기 위해 이 프로젝트를 시작하였습니다.
 ```
+### 개발 기간 및 인원
+
+```
+23.12.21 ~ 24.01.31
+백엔드 7명
+```
+
+### 팀원
+
+| Backend | Backend | Backend | Backend | Backend | Backend | Backend |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| <img src="https://avatars.githubusercontent.com/u/110872008?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/141026603?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/102129027?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/106435638?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/57277646?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/145638699?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/145637253?v=4" width="130" height="130"> 
+|  [권홍](https://github.com/Hong-g7) | [고명보](https://github.com/MyeongBoKo)| [고서연](https://github.com/goxeoni) | [박주형](https://github.com/parkhyeong) | [장현준](https://github.com/jhj010311) | [조나단](https://github.com/jonathan0620) | [조상권](https://github.com/JOSANGKWON) |
 
 ## <h1>주요 기능 소개</h1>
 
